@@ -1,0 +1,8 @@
+{
+    "elastic" : {
+        "cloudID" : "YOUR CLOUD ID",
+        "username": "YOUR CLOUD USERNAME" ,
+        "password" : "YOUR CLOUD PASSWORD",
+        "apiKey" : "YOUR CLOUD API KEY"
+    }
+}
